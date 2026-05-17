@@ -1,10 +1,10 @@
 import type { IconMap, SocialLink, Site } from '@/types'
 
 export const SITE: Site = {
-  title: 'Sudar',
+  title: 'Sudar Code',
   description:
     'Hanyalah Sebuah Blog Berisi Catatan Harian Sudarmanto.',
-  href: 'https://enscribe.dev',
+  href: 'https://www.sudarcode.com',
   author: 'Sudarmanto',
   locale: 'id-ID',
   featuredPostCount: 2,
